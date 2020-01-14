@@ -1,2 +1,2 @@
 import io
-print("Hello")
+print("First push test in company.")
